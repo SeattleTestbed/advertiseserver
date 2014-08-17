@@ -1,9 +1,10 @@
-seattlelib_v1/*
-advertiseserver/*
-portability/*
-utf/*
-dist/LICENSE.txt
+dependencies/seattlelib_v1/*
+../*
+dependencies/portability/*
+dependencies/repy_v2/*
+dependencies/repy_v1/*
+common/*
+common/utf/*
 # Tests
-test seattlelib_v1/tests/*
-test seattlelib_v1/test/*
-test nodemanager/tests/restrictions.test
+test dependencies/seattlelib_v1/tests/*
+test dependencies/seattlelib_v1/test/*
