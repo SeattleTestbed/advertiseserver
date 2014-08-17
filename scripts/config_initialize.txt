@@ -1,5 +1,4 @@
 https://github.com/SeattleTestbed/seattlelib_v1 dependencies/seattlelib_v1
 https://github.com/SeattleTestbed/portability dependencies/portability
 https://github.com/SeattleTestbed/repy_v2 dependencies/repy_v2
-https://github.com/SeattleTestbed/repy_v1 dependencies/repy_v1
 https://github.com/SeattleTestbed/common
