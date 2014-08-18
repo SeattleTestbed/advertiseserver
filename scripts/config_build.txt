@@ -1,11 +1,7 @@
-dependencies/seattlelib_v1/*
+seattlelib_v1/*
 ../*
-dependencies/portability/*
-dependencies/repy_v2/*
+portability/*
+repy_v2/*
 common/*
 common/utf/*
 # Tests
-test dependencies/seattlelib_v1/tests/*
-test dependencies/seattlelib_v1/test/*
-test dependencies/repy_v2/testsV2/*
-test dependencies/portability/tests/*
